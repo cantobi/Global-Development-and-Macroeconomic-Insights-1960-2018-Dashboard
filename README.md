@@ -56,7 +56,7 @@ https://community.fabric.microsoft.com/t5/Data-Stories-Gallery/Global-Developmen
 
 raw data 
 
-https://app.powerbi.com/view?r=eyJrIjoiZjdjNGU5MDktOTk2ZC00ODEyLTlmM2ItZThjMGRhMjg1NzY0IiwidCI6ImY1MTg1YWY3LTQ2YmUtNDRhNS05MDkyLWM4ZWMwZmQ4ZDBhNyJ9
+https://github.com/cantobi/Global-Development-and-Macroeconomic-Insights-1960-2018-Dashboard/raw/refs/heads/main/Global%20Development%20and%20Macroeconomic%20Insights%201960-2018.pbix
 
 demo 
 
