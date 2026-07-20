@@ -60,3 +60,4 @@ https://app.powerbi.com/view?r=eyJrIjoiZjdjNGU5MDktOTk2ZC00ODEyLTlmM2ItZThjMGRhM
 
 demo 
 
+https://github.com/cantobi/Global-Development-and-Macroeconomic-Insights-1960-2018-Dashboard/blob/main/The%20GNE%20indicator.png
