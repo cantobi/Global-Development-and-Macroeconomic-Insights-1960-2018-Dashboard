@@ -1,12 +1,12 @@
-# Global-Development-and-Macroeconomic-Insights-1960-2018-Dashboard
+## Global Development & Macroeconomic Insights: Unlocking 58 Years of Global Progress (1960–2018)
 
-Global Development & Macroeconomic Insights: Unlocking 58 Years of Global Progress (1960–2018)
-
---Short Description
+---
+## Short Description
 
 This project transforms a massive historical dataset tracking 211 unique nations over a continuous 58-year timeline into an interactive, executive-ready data story. Curated from Maven Analytics (originally sourced from the World Bank and International Labour Organization), this Power BI dashboard bypasses static regional snapshots to uncover deep, multi-decade macro-level trajectories. By employing advanced DAX modeling and robust statistical auditing, the dashboard reveals the changing rules of human longevity, digital transformation, and economic scaling in the modern world.
 
---Tech Stack & Architecture
+---
+## Tech Stack & Architecture
 
 The entire data lifecycle—from raw transactional logs to front-end interactive visuals—was engineered natively within the Microsoft Power BI ecosystem:
 
@@ -18,7 +18,8 @@ Analytical Calculations: Custom Data Analysis Expressions (DAX) engineered to ha
 
 Front-End Interface: High-contrast corporate design featuring dark navy accent banners, dynamic tooltips, conditional heatmap matrices, and integrated Choropleth mapping.
 
---Project Goals
+---
+## Project Goals
 
 Map Long-Term Wealth Trajectories: Isolate non-linear development curves across diverse economic blocks over a half-century of history.
 
@@ -28,7 +29,8 @@ Uncover Structural Decoupling: Track the alignment between cross-border technolo
 
 Eliminate Outlier Skewing: Replace traditional arithmetic averages with dynamic median calculations to ensure small nations are not statistically overshadowed by regional economic giants.
 
---Macroeconomic Questions Answered
+---
+## Macroeconomic Questions Answered
 
 This dashboard transitions from basic descriptive tracking to true diagnostic analytics by explicitly answering the following critical macroeconomic questions:
 
@@ -50,14 +52,8 @@ Answered by The Demographic Transition Layer: The data captures a distinct multi
 
 Dataset provided by Maven Analytics. Original administrative data compiled by the World Bank Group and the International Labour Organization (ILO).
 
-power bi data stories
+Interactive Dashboard
 
-https://community.fabric.microsoft.com/t5/Data-Stories-Gallery/Global-Development-and-Macroeconomic-Insights-1960-2018/td-p/5211861
+https://app.powerbi.com/view?r=eyJrIjoiZjdjNGU5MDktOTk2ZC00ODEyLTlmM2ItZThjMGRhMjg1NzY0IiwidCI6ImY1MTg1YWY3LTQ2YmUtNDRhNS05MDkyLWM4ZWMwZmQ4ZDBhNyJ9
 
-raw data 
 
-https://github.com/cantobi/Global-Development-and-Macroeconomic-Insights-1960-2018-Dashboard/raw/refs/heads/main/Global%20Development%20and%20Macroeconomic%20Insights%201960-2018.pbix
-
-demo 
-
-https://github.com/cantobi/Global-Development-and-Macroeconomic-Insights-1960-2018-Dashboard/blob/main/The%20GNE%20indicator.png
