@@ -9,7 +9,7 @@ This project transforms a massive historical dataset tracking 211 unique nations
 
 ## Dashboard Preview
 
-![image](https://github.com/cantobi/Retail_Sales/blob/main/Retail%20Sales%20Project/Sales%201.png)
+![image](https://github.com/cantobi/Global-Development-and-Macroeconomic-Insights-1960-2018-Dashboard/blob/dashboard-file/Project%20file/GDMI%20Dashboard%20preview.png)
 
 ---
 ## Tech Stack & Architecture
