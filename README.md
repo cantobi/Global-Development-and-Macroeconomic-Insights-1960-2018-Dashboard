@@ -27,13 +27,13 @@ The entire data lifecycle—from raw transactional logs to front-end interactive
 ---
 ## Project Goals
 
-Map Long-Term Wealth Trajectories: Isolate non-linear development curves across diverse economic blocks over a half-century of history.
+**Map Long-Term Wealth Trajectories:** Isolate non-linear development curves across diverse economic blocks over a half-century of history.
 
-Audit Global Health Lifelines: Evaluate macro structural shifts in life expectancy and infant mortality to isolate global standards of care.
+**Audit Global Health Lifelines:** Evaluate macro structural shifts in life expectancy and infant mortality to isolate global standards of care.
 
-Uncover Structural Decoupling: Track the alignment between cross-border technological adoption and the physical constraints of national power grids.
+**Uncover Structural Decoupling:** Track the alignment between cross-border technological adoption and the physical constraints of national power grids.
 
-Eliminate Outlier Skewing: Replace traditional arithmetic averages with dynamic median calculations to ensure small nations are not statistically overshadowed by regional economic giants.
+**Eliminate Outlier Skewing:** Replace traditional arithmetic averages with dynamic median calculations to ensure small nations are not statistically overshadowed by regional economic giants.
 
 ---
 ## Macroeconomic Questions Answered
