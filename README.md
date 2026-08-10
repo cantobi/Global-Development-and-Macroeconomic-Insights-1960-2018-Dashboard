@@ -6,6 +6,12 @@
 This project transforms a massive historical dataset tracking 211 unique nations over a continuous 58-year timeline into an interactive, executive-ready data story. Curated from Maven Analytics (originally sourced from the World Bank and International Labour Organization), this Power BI dashboard bypasses static regional snapshots to uncover deep, multi-decade macro-level trajectories. By employing advanced DAX modeling and robust statistical auditing, the dashboard reveals the changing rules of human longevity, digital transformation, and economic scaling in the modern world.
 
 ---
+
+## Dashboard Preview
+
+![image](https://github.com/cantobi/Retail_Sales/blob/main/Retail%20Sales%20Project/Sales%201.png)
+
+---
 ## Tech Stack & Architecture
 
 The entire data lifecycle—from raw transactional logs to front-end interactive visuals—was engineered natively within the Microsoft Power BI ecosystem:
