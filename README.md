@@ -58,6 +58,7 @@ Dataset provided by Maven Analytics. Original administrative data compiled by th
 https://app.powerbi.com/view?r=eyJrIjoiZjdjNGU5MDktOTk2ZC00ODEyLTlmM2ItZThjMGRhMjg1NzY0IiwidCI6ImY1MTg1YWY3LTQ2YmUtNDRhNS05MDkyLWM4ZWMwZmQ4ZDBhNyJ9
 
 **Reference List**
+
 International Energy Agency (IEA) (2017). Digitalization & Energy. Paris: IEA. Available at: https://www.iea.org/reports/digitalisation-and-energy (Accessed: August 10, 2026).
 
 International Labour Organization (ILO) (2018). World Employment and Social Outlook: Trends 2018. Geneva: ILO. Available at: https://www.ilo.org/global/research/global-reports/weso/2018/lang--en/index.htm (Accessed: August 10, 2026).
